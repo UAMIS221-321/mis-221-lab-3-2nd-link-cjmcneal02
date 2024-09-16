@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pappa\\Documents\\source\\MIS_221\\labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj": {}
+    "C:\\Users\\pappa\\Documents\\source\\MIS_221\\Labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pappa\\Documents\\source\\MIS_221\\labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj": {
+    "C:\\Users\\pappa\\Documents\\source\\MIS_221\\Labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pappa\\Documents\\source\\MIS_221\\labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj",
+        "projectUniqueName": "C:\\Users\\pappa\\Documents\\source\\MIS_221\\Labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj",
         "projectName": "mis-221-lab-3-2nd-link-cjmcneal02",
-        "projectPath": "C:\\Users\\pappa\\Documents\\source\\MIS_221\\labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj",
+        "projectPath": "C:\\Users\\pappa\\Documents\\source\\MIS_221\\Labs\\mis-221-lab-3-2nd-link-cjmcneal02\\mis-221-lab-3-2nd-link-cjmcneal02.csproj",
         "packagesPath": "C:\\Users\\pappa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pappa\\Documents\\source\\MIS_221\\labs\\mis-221-lab-3-2nd-link-cjmcneal02\\obj\\",
+        "outputPath": "C:\\Users\\pappa\\Documents\\source\\MIS_221\\Labs\\mis-221-lab-3-2nd-link-cjmcneal02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pappa\\AppData\\Roaming\\NuGet\\NuGet.Config"
